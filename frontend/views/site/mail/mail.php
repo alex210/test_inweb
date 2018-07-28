@@ -64,7 +64,7 @@ $subjects = $html->find('.messageline__subject');
       <p class="form-control-static">gdf5641fdsg4165</p>
     </div>
   </div>
-  <a href="" target="_blank">Код страницы на GitHub</a>
+  <a href="https://github.com/alex210/test_inweb/blob/master/frontend/views/site/mail/mail.php" target="_blank">Код страницы на GitHub</a>
 </div>
 
 <div class="page-header">
